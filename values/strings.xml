@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Human Verification App - Captcha</string>
+    <string name="bg">app_background</string>
+    <string name="robot" />
+    <string name="hvt">Human Verification Required</string>
+    <string name="hvte">In order to Combat robots from taking over, we\'ve added a captcha to ensure only humans use this app.</string>
+    <string name="Verify">Verify</string>
+    <string name="captcha_code">CAPTCHA:</string>
+    <string name="input">Enter Captcha Code</string>
+    <string name="code" />
+</resources>
